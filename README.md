@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi 👋, I'm Ritesh kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Ritesh Singh</h1>
+<h3 align="center">A Data Analyist from India</h3>
 
 
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshsingh12343&label=Profile%20views&color=0e75b6&style=flat" alt="riteshsingh12343" /> </p>
 
-- 💬 Ask me about * React , Java, JavaScript, CSS ,Html,Node,
+- 💬 Ask me about * SQL, Advanced Excel , Power BI , Python , VBA , 
 
 - 📫 How to reach me **riteshkumarsingh9363@gmail.com**
 
