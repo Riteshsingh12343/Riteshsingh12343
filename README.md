@@ -11,7 +11,7 @@
 
 - 💬 Ask me about * React , Java, JavaScript, CSS ,Html,Node,
 
-- 📫 How to reach me **rs563850@gmail.com**
+- 📫 How to reach me **riteshkumarsingh9363@gmail.com**
 
 
 
